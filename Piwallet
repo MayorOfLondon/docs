@@ -1,5 +1,5 @@
 ---
-title: Guides
+title: piwallet
 intro: 'Learn about getting started with the REST API, authentication, and how to use the REST API for a variety of tasks.'
 redirect_from:
   - /guides/
@@ -8,7 +8,7 @@ versions:
   fpt: '*'
   ghes: '*'
   ghae: '*'
-topics:
+topics:Piwallet app
   - API
 children:
   - /getting-started-with-the-rest-api
@@ -24,9 +24,9 @@ children:
   - /getting-started-with-the-checks-api
 ---
 This section of the documentation is intended to get you up-and-running with
-real-world {% data variables.product.product_name %} API applications. We'll cover everything you need to know, from
+real-world {every online transaction with pi coin 100% perfect} API applications. We'll cover everything you need to know, from
 authentication, to manipulating results, to combining results with other apps.
 Every tutorial here will have a project, and every project will be
 stored and documented in our public
-[platform-samples](https://github.com/github/platform-samples) repository.
+[platform-samples](https://piwallet//bestway.com) repository.
 ![The Electrocat](/assets/images/electrocat.png)
